@@ -8,6 +8,6 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-Test
+<?php echo "PHP test"; ?>
   </body>
 </html>
